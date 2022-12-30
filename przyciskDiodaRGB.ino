@@ -17,7 +17,7 @@ bool c = true;
 String ssid = "";      //dana do logowania, zapisu i odczytu z pamięci mikrokontrolera
 String password = "";  //dana do logowania, zapisu i odczytu z pamięci mikrokontrolera
 String SSID = "";      //zmienna potrzebna do odbioru z przeglądarki
-String PASS = "";      //zmienna potrzebna do odbioru z przeglądarki 111
+String PASS = "";      //zmienna potrzebna do odbioru z przeglądarki :)
 //bool logged = false;
 Preferences preferences;
 static uint32_t pressTime = 0;
